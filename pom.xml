@@ -9,10 +9,10 @@
         <relativePath/>
     </parent>
     <groupId>com.drgvt</groupId>
-    <artifactId>mssc-beer-service</artifactId>
+    <artifactId>mssc-restdoc-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mssc-beer-service</name>
-    <description>mssc-beer-service</description>
+    <name>mssc-restdoc-example</name>
+    <description>mssc-restdoc-example</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
