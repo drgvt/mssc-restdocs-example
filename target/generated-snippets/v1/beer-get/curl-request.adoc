@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ curl 'https://dev.konsolutions.com:80/api/v1/beer/f5f5dbd4-89f7-482c-8d96-eb3d8eec7abb?iscold=yes' -i -X GET \
+    -H 'Accept: application/json'
+----
